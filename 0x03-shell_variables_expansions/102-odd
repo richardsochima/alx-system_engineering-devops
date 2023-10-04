@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -d, - - | out -d, -fl
+paste -d, - - | out -d, -f1
